@@ -1,4 +1,5 @@
-## Sou um desenvolvedor de software com grande entusiasmo por tecnologia, especialmente pelo desenvolvimento de jogos 🎮 e astronomia 🪐. Dedico meu tempo ao estudo contínuo da programação, buscando aprimorar minhas habilidades, com foco especial na área Full Stack. 🚀
+# Eu sou Lucas Sousa
+## Sou um desenvolvedor de software com grande entusiasmo por tecnologia, especialmente pelo desenvolvimento de jogos 🎮 e astronomia 🪐. Dedico meu tempo ao estudo contínuo da programação, buscando aprimorar minhas habilidades, com foco especial na área **Full Stack**. 🚀
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
