@@ -3,7 +3,6 @@
 Como jovem ambicioso, a área de tecnologia me fascina, pois me oferece a oportunidade de desafiar os limites e construir um futuro extraordinário.
 Afinal, como Jim Rohn sabiamente disse: 
 > "Se você não está disposto a arriscar, esteja disposto a uma vida comum." <br/>
-> \- Jim Rohn.
 <br/>
 
 
