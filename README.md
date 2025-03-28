@@ -1,6 +1,7 @@
 # Eu sou Lucas Sousa
 ## Sou um desenvolvedor de software com grande entusiasmo por tecnologia, especialmente pelo desenvolvimento de jogos 🎮 e astronomia 🪐. Dedico meu tempo ao estudo contínuo da programação, buscando aprimorar minhas habilidades, com foco especial na área **Full Stack**. 🚀
-Creio que a área de tecnologia seja o meu jeito de fazer juz à minha frase favorita:
+Como jovem ambicioso, a área de tecnologia me fascina, pois me oferece a oportunidade de desafiar os limites e construir um futuro extraordinário.
+Afinal, como Jim Rohn sabiamente disse: 
 > "Se você não está disposto a arriscar, esteja disposto a uma vida comum." <br/>
 > \- Jim Rohn.
 <br/>
