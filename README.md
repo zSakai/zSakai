@@ -19,5 +19,6 @@ Afinal, como Jim Rohn sabiamente disse:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zSakai&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zSakai&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CWed&card_width=500)](https://git.io/streak-stats)
 
 
